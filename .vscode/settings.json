@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    "auth\\.flutter-plugins-dependencies": true,
+    "auth\\.flutter-plugins": true,
+    "auth\\.metadata": true,
+    "auth\\.packages": true,
+    "auth\\auth.iml": true,
+    "auth\\CHANGELOG.md": true,
+    "auth\\LICENSE": true,
+    "auth\\pubspec.lock": true,
+    "auth\\README.md": true,
+    "web": true,
+    ".flutter-plugins": true,
+    ".flutter-plugins-dependencies": true,
+    ".metadata": true,
+    ".packages": true,
+    "pubspec.lock": true,
+    "rotten_chickens.iml": true
+  }
+}
